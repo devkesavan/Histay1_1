@@ -1,0 +1,665 @@
+[24-Jul-2023 16:17:29 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:17:29 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:18:02 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:18:02 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:18:54 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 16:19:01 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 16:19:02 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 16:19:03 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 16:19:05 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 16:19:06 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 16:19:10 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:19:10 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:19:49 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 16:19:49 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:02:22 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/aboutus.php on line 76
+[24-Jul-2023 17:02:32 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 17:02:49 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 17:02:49 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 17:03:54 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/aboutus.php on line 76
+[24-Jul-2023 17:04:55 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 17:05:53 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 17:18:45 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:18:45 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:18:52 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 17:18:53 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:18:53 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:01 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:01 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:14 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:14 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:32 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:19:32 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:20:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:22:08 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:08 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:18 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:18 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:27 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:27 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[24-Jul-2023 17:22:56 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 17:31:19 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[24-Jul-2023 17:31:23 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[24-Jul-2023 17:31:27 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/aboutus.php on line 76
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:36:20 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[24-Jul-2023 17:37:37 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Notice:  Undefined index: check_in in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 281
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Notice:  Undefined index: check_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 285
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Notice:  Undefined index: check_in in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 392
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Notice:  Undefined index: check_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 393
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[25-Jul-2023 09:44:34 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:48:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[27-Jul-2023 12:55:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 10:47:26 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[28-Jul-2023 11:23:59 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[28-Jul-2023 13:31:26 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:31:26 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:31:33 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:31:33 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:31:46 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:31:46 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:32:00 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:32:00 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:32:14 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:32:14 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[28-Jul-2023 13:32:21 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[28-Jul-2023 13:32:23 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[28-Jul-2023 13:32:23 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[28-Jul-2023 14:06:42 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[29-Jul-2023 15:48:46 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/contactus.php on line 32
+[01-Sep-2023 17:48:04 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[01-Sep-2023 17:48:04 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:25 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:25 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:39 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:39 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:46 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:46 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:42:50 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:42:51 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:42:51 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:42:58 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:42:59 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:42:59 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:43:21 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:43:21 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:43:56 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:43:56 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:44:00 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 13:44:01 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:44:01 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 13:44:03 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:44:03 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:44:09 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:44:09 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:45:03 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:45:03 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:47:31 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:47:31 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:11 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:11 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:29 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:29 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:48:39 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:49:12 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:49:12 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 400
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:49:34 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:49:47 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:49:47 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:49:47 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 35
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[04-Sep-2023 13:50:08 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[04-Sep-2023 13:50:42 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:50:42 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:50:42 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 35
+[04-Sep-2023 13:50:52 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:50:52 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[04-Sep-2023 13:50:52 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 35
+[04-Sep-2023 13:51:06 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 535
+[04-Sep-2023 13:51:06 asia/kolkata] PHP Notice:  Undefined variable: years in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 13:51:06 asia/kolkata] PHP Notice:  Undefined variable: months in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 14:08:19 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 535
+[04-Sep-2023 14:08:19 asia/kolkata] PHP Notice:  Undefined variable: years in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 14:08:19 asia/kolkata] PHP Notice:  Undefined variable: months in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 14:10:24 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:10:25 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 535
+[04-Sep-2023 14:10:25 asia/kolkata] PHP Notice:  Undefined variable: years in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 14:10:25 asia/kolkata] PHP Notice:  Undefined variable: months in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[04-Sep-2023 14:10:26 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:10:30 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:10:34 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:10:45 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:10:45 asia/kolkata] PHP Notice:  Undefined index: name in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/my_profile.php on line 126
+[04-Sep-2023 14:10:45 asia/kolkata] PHP Notice:  Undefined index: mobile in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/my_profile.php on line 129
+[04-Sep-2023 14:10:45 asia/kolkata] PHP Notice:  Undefined index: email in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/my_profile.php on line 132
+[04-Sep-2023 14:10:45 asia/kolkata] PHP Notice:  Undefined index: address in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/my_profile.php on line 135
+[04-Sep-2023 14:16:19 asia/kolkata] PHP Notice:  Undefined offset: 0 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 864
+[04-Sep-2023 14:16:19 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 864
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 14:16:28 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 14:16:35 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 14:22:19 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:22:22 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:22:53 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:22:54 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 14:22:54 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 14:22:57 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:23:00 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:23:36 asia/kolkata] PHP Notice:  Undefined index: member_photo in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/header.php on line 360
+[04-Sep-2023 14:23:37 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 14:23:37 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 44
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined index: check_in_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 45
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 48
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined offset: 1 in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 49
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 51
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Notice:  Undefined index: adults in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[04-Sep-2023 16:33:26 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 141
+[05-Sep-2023 08:47:51 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 08:47:51 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 10:34:05 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 10:34:05 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:34:41 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:36:17 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[05-Sep-2023 10:36:17 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 33
+[05-Sep-2023 10:36:17 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/ajax_cart_actions.php on line 35
+[05-Sep-2023 10:36:24 asia/kolkata] PHP Notice:  Undefined variable: years in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[05-Sep-2023 10:36:24 asia/kolkata] PHP Notice:  Undefined variable: months in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/booking.php on line 536
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: check_in in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 281
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: check_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 285
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: check_in in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 392
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: check_out in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 393
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 10:52:39 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 13:02:51 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/aboutus.php on line 76
+[05-Sep-2023 17:14:12 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/aboutus.php on line 76
+[05-Sep-2023 17:14:25 asia/kolkata] PHP Notice:  Undefined index: id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/activities.php on line 35
+[05-Sep-2023 17:15:24 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:15:24 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:15:36 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:15:36 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:15:45 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:15:45 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:11 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:11 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:22 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:22 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:37 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:37 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:45 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:45 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:57 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:16:57 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:38 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:38 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:44 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:44 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:56 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:17:56 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:18:01 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:18:01 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:18:59 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:18:59 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:19:13 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:19:13 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:19:25 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:19:25 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:23:29 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:23:29 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:02 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:02 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:18 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:18 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:33 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:24:33 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:25:01 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:32 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:52:32 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:52:33 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:52:33 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:52:55 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:53:35 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:53:35 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:54:09 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:54:09 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:54:20 asia/kolkata] PHP Notice:  Undefined variable: hotel_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:54:20 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotels-list.php on line 824
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Undefined index: room_id in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 548
+[05-Sep-2023 17:54:24 asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sldi59ncq8vy/public_html/hotel_booking_demo_2023/hotel-details.php on line 550

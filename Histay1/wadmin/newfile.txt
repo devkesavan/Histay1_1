@@ -1,0 +1,1 @@
+update ra_hotel_rooms set hotel_id='1',name='Superior King Room',short_description='Sample Short Description',max_childerns='4',max_adults='4',max_people='3',min_people='6',num_of_rooms='5',actual_cost='10000',final_cost='8500',tax_id='1',homepage='Y',sort_no='0',updated_at='2021-03-23 05:41:43',updated_by='1' where id='2'

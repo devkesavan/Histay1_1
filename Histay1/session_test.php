@@ -1,0 +1,1 @@
+<?php session_start(); echo $_SESSION['payumoney_booking_code']; ?>
